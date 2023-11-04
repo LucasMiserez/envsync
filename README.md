@@ -1,4 +1,4 @@
-# Eng Sync
+# Env Sync
 
 ## Overview
 This repository provides two essential scripts for exporting and syncing Conda environments. These scripts are designed to streamline the process of managing Conda environments on the same operating system.
